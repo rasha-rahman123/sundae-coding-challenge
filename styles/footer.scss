@@ -1,0 +1,30 @@
+.footer {
+    position: relative;
+    clear: both;
+    height: 173px;
+    margin-top: -173px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    .top {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+    }
+    .line {
+        width: 50px;
+        height: 2px;
+        background: #BDBDBD;
+    }
+    .icon {
+        opacity: 0.5;
+        &:hover {
+            opacity: 1;
+        }
+        
+    }
+}

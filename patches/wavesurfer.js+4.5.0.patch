@@ -1,0 +1,225 @@
+diff --git a/node_modules/wavesurfer.js/CHANGES.md b/node_modules/wavesurfer.js/CHANGES.md
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/LICENSE b/node_modules/wavesurfer.js/LICENSE
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/README.md b/node_modules/wavesurfer.js/README.md
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.cursor.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.cursor.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.cursor.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.cursor.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.cursor.min.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.cursor.min.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.cursor.min.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.cursor.min.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.elan.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.elan.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.elan.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.elan.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.elan.min.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.elan.min.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.elan.min.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.elan.min.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.mediasession.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.mediasession.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.mediasession.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.mediasession.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.mediasession.min.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.mediasession.min.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.mediasession.min.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.mediasession.min.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.microphone.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.microphone.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.microphone.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.microphone.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.microphone.min.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.microphone.min.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.microphone.min.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.microphone.min.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.minimap.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.minimap.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.minimap.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.minimap.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.minimap.min.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.minimap.min.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.minimap.min.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.minimap.min.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.regions.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.regions.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.regions.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.regions.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.regions.min.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.regions.min.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.regions.min.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.regions.min.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.spectrogram.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.spectrogram.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.spectrogram.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.spectrogram.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.spectrogram.min.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.spectrogram.min.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.spectrogram.min.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.spectrogram.min.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.timeline.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.timeline.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.timeline.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.timeline.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.timeline.min.js b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.timeline.min.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/plugin/wavesurfer.timeline.min.js.map b/node_modules/wavesurfer.js/dist/plugin/wavesurfer.timeline.min.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/wavesurfer-html-init.js b/node_modules/wavesurfer.js/dist/wavesurfer-html-init.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/wavesurfer-html-init.js.map b/node_modules/wavesurfer.js/dist/wavesurfer-html-init.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/wavesurfer-html-init.min.js b/node_modules/wavesurfer.js/dist/wavesurfer-html-init.min.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/wavesurfer-html-init.min.js.map b/node_modules/wavesurfer.js/dist/wavesurfer-html-init.min.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/wavesurfer.js b/node_modules/wavesurfer.js/dist/wavesurfer.js
+old mode 100644
+new mode 100755
+index d9d123e..ff11658
+--- a/node_modules/wavesurfer.js/dist/wavesurfer.js
++++ b/node_modules/wavesurfer.js/dist/wavesurfer.js
+@@ -3285,7 +3285,7 @@ exports.default = void 0;
+  *
+  * @return {function} Available `requestAnimationFrame` function for the browser
+  */
+-var _default = (window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.oRequestAnimationFrame || window.msRequestAnimationFrame || function (callback, element) {
++var _default = typeof window !== 'undefined' && (window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.oRequestAnimationFrame || window.msRequestAnimationFrame || function (callback, element) {
+   return setTimeout(callback, 1000 / 60);
+ }).bind(window);
+ 
+diff --git a/node_modules/wavesurfer.js/dist/wavesurfer.js.map b/node_modules/wavesurfer.js/dist/wavesurfer.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/wavesurfer.min.js b/node_modules/wavesurfer.js/dist/wavesurfer.min.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/dist/wavesurfer.min.js.map b/node_modules/wavesurfer.js/dist/wavesurfer.min.js.map
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/drawer.canvasentry.js b/node_modules/wavesurfer.js/src/drawer.canvasentry.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/drawer.js b/node_modules/wavesurfer.js/src/drawer.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/drawer.multicanvas.js b/node_modules/wavesurfer.js/src/drawer.multicanvas.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/html-init.js b/node_modules/wavesurfer.js/src/html-init.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/mediaelement-webaudio.js b/node_modules/wavesurfer.js/src/mediaelement-webaudio.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/peakcache.js b/node_modules/wavesurfer.js/src/peakcache.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/plugin/cursor/index.js b/node_modules/wavesurfer.js/src/plugin/cursor/index.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/plugin/elan/index.js b/node_modules/wavesurfer.js/src/plugin/elan/index.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/plugin/mediasession/index.js b/node_modules/wavesurfer.js/src/plugin/mediasession/index.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/plugin/microphone/index.js b/node_modules/wavesurfer.js/src/plugin/microphone/index.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/plugin/minimap/index.js b/node_modules/wavesurfer.js/src/plugin/minimap/index.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/plugin/regions/index.js b/node_modules/wavesurfer.js/src/plugin/regions/index.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/plugin/regions/region.js b/node_modules/wavesurfer.js/src/plugin/regions/region.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/plugin/spectrogram/fft.js b/node_modules/wavesurfer.js/src/plugin/spectrogram/fft.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/plugin/spectrogram/index.js b/node_modules/wavesurfer.js/src/plugin/spectrogram/index.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/plugin/timeline/index.js b/node_modules/wavesurfer.js/src/plugin/timeline/index.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/absMax.js b/node_modules/wavesurfer.js/src/util/absMax.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/clamp.js b/node_modules/wavesurfer.js/src/util/clamp.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/fetch.js b/node_modules/wavesurfer.js/src/util/fetch.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/frame.js b/node_modules/wavesurfer.js/src/util/frame.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/get-id.js b/node_modules/wavesurfer.js/src/util/get-id.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/index.js b/node_modules/wavesurfer.js/src/util/index.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/max.js b/node_modules/wavesurfer.js/src/util/max.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/min.js b/node_modules/wavesurfer.js/src/util/min.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/observer.js b/node_modules/wavesurfer.js/src/util/observer.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/prevent-click.js b/node_modules/wavesurfer.js/src/util/prevent-click.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/request-animation-frame.js b/node_modules/wavesurfer.js/src/util/request-animation-frame.js
+old mode 100644
+new mode 100755
+diff --git a/node_modules/wavesurfer.js/src/util/style.js b/node_modules/wavesurfer.js/src/util/style.js
+old mode 100644
+new mode 100755
